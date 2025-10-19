@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  font-family: Roboto, Arial;
+  font: 900;
+}
+body {
+  background-color: black;
+  color: white;
+  padding-bottom: 1000px;
+}
